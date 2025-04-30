@@ -26,3 +26,9 @@ Languages:     Python · JavaScript · TypeScript · HTML · CSS · C++
 Frameworks:    Angular · Flask · Tkinter
 Libraries:     NumPy · Pandas · TensorFlow · OpenCV
 Tools & DBs:   Firebase · Git · GitHub · VS Code · Figma · MongoDB
+
+
+stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=princedraxx980&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=princedraxx980&theme=radical" />
